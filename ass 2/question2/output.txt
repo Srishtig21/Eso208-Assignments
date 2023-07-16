@@ -1,0 +1,8 @@
+QR method
+Iteration
+ 23
+
+Eigenvalues 
+ 10.778835
+ 8.146223
+ 3.074941
